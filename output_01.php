@@ -101,6 +101,19 @@
 <!-- using the ? = i need to only have single qoute -->
 <h3>Welcome <?= 'Let call it a Day see ya! next time...' ?>
 
+<strong>PHP stands for HyperText Preprocessor</strong>
+<p>Things we can do with PHP</p>
+<li>it generate a dynamic page content</li>
+<li>it creates, open, read, write, delete, and close files on the server</li>
+<li>it collects form data</li>
+<li>it sends and receive cookies</li>
+<li>it adds, delete, modify data in database</li>
+<li>it control user-access</li>
+<li>it can encrypt data</li>
+
+
+
+
 </body>
 </html>
 
